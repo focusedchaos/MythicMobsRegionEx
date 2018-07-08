@@ -1,0 +1,9 @@
+
+out/artifacts/MythicMobsRegionEx_jar/MythicMobsRegionEx.jar
+target/classes/me/methodanarchy/mythicmobsregionex/apis/WorldGuardHelper.class
+target/classes/me/methodanarchy/mythicmobsregionex/conditions/ConditionsExRegister.class
+target/classes/me/methodanarchy/mythicmobsregionex/conditions/InRegionsCondition.class
+target/classes/me/methodanarchy/mythicmobsregionex/conditions/NotInRegionsCondition.class
+target/classes/me/methodanarchy/mythicmobsregionex/Main.class
+target/classes/me/methodanarchy/mythicmobsregionex/RexLogger.class
+target/classes/plugin.yml
