@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MythicMobsRegionEx:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MythicMobsRegionEx_jar</output-path>
+    <root id="archive" name="MythicMobsRegionEx.jar">
+      <element id="module-output" name="MythicMobsRegionEx" />
+    </root>
+  </artifact>
+</component>
