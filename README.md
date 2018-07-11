@@ -35,7 +35,6 @@ Conditions:
 - notinregion{r=StartingArea} true
 - notinregion{r=Homesteads} true
 - notinregion{r=Farms} true
-- notinregion{r=Farms} true
 - inregion{r=SomeOtherPhysicalRegionWithoutLeveledMobs}
 Skills:
 - setlevel{a=set;l=5}
